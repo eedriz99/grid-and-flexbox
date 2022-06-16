@@ -50,6 +50,7 @@
   text-decoration: none;
   color: rgba(0,0,0,0.5);
   background-color: white;
+  
 }
 .btn>a:hover {
   display: inline-block;
@@ -61,4 +62,16 @@
   text-decoration: none;
   color: white;
   background-color: inherit;
+}
+
+.grid-btn{
+  width: 80%;
+  padding: 3% 20%;
+  background-color: hsl(31, 77%, 52%);
+  display: inline-block;
+  border-radius: 15px;
+  margin: 10%;
+  text-align: center;
+  color: white;
+  text-decoration: none;
 }
